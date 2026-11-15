@@ -1,0 +1,14 @@
+{
+  "source": "MASTER AI GENERATED ESSAYS / Sheet1",
+  "source_spreadsheet_url": "https://docs.google.com/spreadsheets/d/156HvNm21Z9-ot-VyOIvIcteUMf6II26bKQqPbgvevhQ/edit",
+  "source_data_rows": 2809,
+  "labels": {
+    "Raw": 1400,
+    "Humanized": 1409
+  },
+  "rows_with_essay_text": 300,
+  "rows_requiring_linked_doc_text": 2509,
+  "dataset_files": 57,
+  "format": "JSON Lines",
+  "note": "Missing source sheet text was INVALID_LINK. These are represented as null with text_status needs_document_fetch, not usable training text. Complete via recover_missing_text.py. Content publication rights and privacy have not been independently audited."
+}
