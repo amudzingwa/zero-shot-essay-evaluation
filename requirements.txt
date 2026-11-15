@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+numpy
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+gspread
+google-api-python-client
+google-auth
